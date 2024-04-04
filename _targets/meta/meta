@@ -1,11 +1,15 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 baltimore_cama|stem||d3a66d48aa7480ad|f77c2c1d136ddbdb|-1816300724||t19816.5738286938s||0|rds|local|vector|||0.084||c... must be TRUE
 baltimore_cama_src|stem|3e2c014a5596afdc|eeeaa79b4745ab22|ef46db3751d8e999|-293588798||t19816.5734240404s|181aded6e5f499d4|246713|rds|local|vector|||12.994||
+baltimore_hmt_2023|stem|75af951145636ac1|f6df5ea3a368c4ca|ef46db3751d8e999|1295868715||t19817.1367621955s|a81b3f2618410c83|396571|rds|local|vector|||2||
+baltimore_hmt_2023_out|stem|75af951145636ac1|f22f4a48bc4688e0|245af6fa11896da6|1304981921||t19817.1367634795s|a81b3f2618410c83|396571|rds|local|vector|||0.067||
 baltimore_parcels|stem|4e574aaf0399a3f3|7ab23500d56df8e3|e4424f7105053402|-1539895480||t19816.5746520417s|bb44a856f3575033|1731978|rds|local|vector|||0.066||
 baltimore_parcels_out|stem|4e574aaf0399a3f3|d0b2eac122bae401|7802017813fa7305|-157036524||t19816.5746589051s|bb44a856f3575033|1731978|rds|local|vector|||0.209||
 baltimore_parcels_src|stem|b4d3d3abfd590e9a|58792d9c929f5786|ef46db3751d8e999|-896990329||t19816.5738269485s|c50ee801691b6219|1708580|rds|local|vector|||18.836||
 baltimore_property|stem|2d76b457dd613c54|8287ef7d209ea730|d6dd3dc18b40a4cb|1841274677||t19816.5687193957s|aa1d023f0dd6c36d|1327404|rds|local|vector|||14.717||
 baltimore_property_out|stem|2d76b457dd613c54|9d8155ccfd63315b|b4228f26d2a0df26|1183977241||t19816.5687240561s|aa1d023f0dd6c36d|1327404|rds|local|vector|||0.142||
 baltimore_property_src|stem|2a97f4284ea88147|2f366db537c64441|ef46db3751d8e999|1888467029||t19816.5685454068s|42378dca06de0e61|1334899|rds|local|vector|||5.458||
+baltimore_vbn|stem|d77dedace4badbd0|60075fd163fe6a91|ef46db3751d8e999|694150649||t19817.1380569244s|c61cdd28214cb3bb|332958|rds|local|vector|||3.323||
+baltimore_vbn_out|stem|d77dedace4badbd0|511d9e6c8fb7cb43|b048b64284866959|-1142790478||t19817.1380586187s|c61cdd28214cb3bb|332958|rds|local|vector|||0.075||
 filter_improved_parcels|function|6c43158653a081d9|||||||||||||||
 filter_unimproved_parcels|function|f3aca9cb4e16a090|||||||||||||||
